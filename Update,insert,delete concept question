@@ -1,0 +1,20 @@
+5. Add a column ISBN to the Books table with the following specifications
+● ISBN: Variable character with a maximum length of 13, unique
+6. Modify the Price column in the Book` table to NOT NULL
+7. Insert the following data into the Authors table
+● 'J.K.', 'Rowling'
+● 'George', 'Orwell'
+● 'J.R.R.', 'Tolkien'
+8. Insert the following data into the Categories table
+● 1,'Fantasy'
+● 2,'Science Fiction'
+● 3,'Dystopian'
+9. Insert the following data into the Books table
+● 'Harry Potter and the Sorcerer's Stone', 1, 1, 19.99, '1997-06-26', 100, '9780747532699'
+● '1984', 2, 3, 14.99, '1949-06-08', 200, '9780451524935'
+● 'The Hobbit', 3, 1, 15.99, '1937-09-21', 150, '9780547928227'
+GrowDataSkil s
+10. Update the Price of the book 1984 to 17.99
+11. Update the Stock of the book with BookID 1 by adding 50 to its current value
+12. How do you delete the book record with BookID 3?  
+
